@@ -15,9 +15,7 @@
 [<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 [<img align="left" alt="Java" width="42px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/java/java.png" />][java]
 [<img align="left" alt="Cpp" width="42px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/cpp/cpp.png" />]
-
-
-
+[<img align="left" alt="Selenium" width="32px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/selenium/selenium.png" />][selenium]
 
 
 
@@ -29,6 +27,7 @@
 [github]: https://github.com/haticeyasar
 [python]: https://www.python.org/
 [java]: https://www.java.com/tr/
+[selenium]: https://www.selenium.dev/
 
 
 <br />
