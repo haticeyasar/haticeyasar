@@ -14,7 +14,6 @@
 [<img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Python" width="42px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 [<img align="left" alt="Java" width="46px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/java/java.png" />][java]
-[<img align="left" alt="Cpp" width="32x" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/cpp/cpp.png"/>][cpp]
 [<img align="left" alt="Tensorflow" width="40px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/tensorflow/tensorflow.png" />][tensorflow]
 [<img align="left" alt="Opencv" width="40px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/opencv/opencv.png" />][opencv]
 [<img align="left" alt="Selenium" width="36px" src="https://www.selenium.dev/images/selenium_logo_square_green.png" />][selenium]
@@ -27,7 +26,6 @@
 [git]: https://git-scm.com/
 [github]: https://github.com/haticeyasar
 [python]: https://www.python.org/
-[cpp]:  https://www.cplusplus.com/
 [java]: https://www.java.com/tr/
 [tensorflow]: https://www.tensorflow.org/
 [opencv]: https://opencv.org/
