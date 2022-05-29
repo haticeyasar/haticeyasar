@@ -16,9 +16,8 @@
 [<img align="left" alt="Java" width="42px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/java/java.png" />][java]
 [<img align="left" alt="Cpp" width="42px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/cpp/cpp.png" />][cpp]
 [<img align="left" alt="Tensorflow" width="42px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/tensorflow/tensorflow.png" />][tensorflow]
-[<img align="left" alt="Opencv" width="42px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/opencv/opencv.png" />][tensorflow]
-[<img align="left" alt="Selenium" width="42px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/Selenium/selenium.png" />][selenium]
-[<img align="left" alt="Intellij" width="42px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/Ij/intellij.png" />] [intellij]
+[<img align="left" alt="Opencv" width="42px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/opencv/opencv.png" />][opencv]
+
 
 
 
@@ -33,8 +32,7 @@
 [java]: https://www.java.com/tr/
 [tensorflow]: https://www.tensorflow.org/
 [opencv]: https://opencv.org/
-[selenium]: https://www.selenium.dev/
-[ij]: https://www.jetbrains.com/idea/
+
 
 
 <br />
