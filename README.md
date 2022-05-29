@@ -17,6 +17,7 @@
 [<img align="left" alt="Cpp" width="32x" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/cpp/cpp.png"/>][cpp]
 [<img align="left" alt="Tensorflow" width="40px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/tensorflow/tensorflow.png" />][tensorflow]
 [<img align="left" alt="Opencv" width="40px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/opencv/opencv.png" />][opencv]
+[<img align="left" alt="Selenium" width="36px" src="https://www.selenium.dev/images/selenium_logo_square_green.png" />][selenium]
 
 
 <br />
@@ -30,6 +31,7 @@
 [java]: https://www.java.com/tr/
 [tensorflow]: https://www.tensorflow.org/
 [opencv]: https://opencv.org/
+[selenium]: https://www.selenium.dev/
 
 
 <br />
