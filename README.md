@@ -15,7 +15,8 @@
 [<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 [<img align="left" alt="Java" width="42px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/java/java.png" />][java]
 
-[<img align="left" alt="Selenium" width="42px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/selenium/selenium.png" />][selenium]
+[<img align="left" alt="Selenium" width="32px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/selenium
+  /selenium.png" />][selenium]
 
 
 
