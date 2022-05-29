@@ -19,8 +19,6 @@
 [<img align="left" alt="Opencv" width="40px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/opencv/opencv.png" />][opencv]
 
 
-
-
 <br />
 
 
@@ -32,7 +30,6 @@
 [java]: https://www.java.com/tr/
 [tensorflow]: https://www.tensorflow.org/
 [opencv]: https://opencv.org/
-
 
 
 <br />
