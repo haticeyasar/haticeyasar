@@ -16,7 +16,7 @@
 [<img align="left" alt="Java" width="42px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/java/java.png" />][java]
 [<img align="left" alt="Cpp" width="42px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/cpp/cpp.png" />]
 [<img align="left" alt="Tensorflow" width="42px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/tensorflow/tensorflow.png" />][tensorflow]
-[<img align="left" alt="Tensorflow" width="42px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/tensorflow/tensorflow.png" />][tensorflow]
+[<img align="left" alt="Opencv" width="42px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/opencv/opencv.png" />][tensorflow]
 
 
 
